@@ -1,0 +1,14 @@
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\AuthenticatorConsoleApp.exe.config
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\AuthenticatorConsoleApp.exe
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\AuthenticatorConsoleApp.pdb
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\obj\Debug\AuthenticatorConsoleApp.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\obj\Debug\AuthenticatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\obj\Debug\AuthenticatorConsoleApp.exe
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\obj\Debug\AuthenticatorConsoleApp.pdb
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\InterfaceLib.dll
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\InterfaceLib.pdb
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\obj\Debug\AuthenticatorConsoleApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\RestSharp.dll
+C:\Users\Vi\source\repos\DCAssignment1\DCAssignment1\bin\Debug\RestSharp.xml

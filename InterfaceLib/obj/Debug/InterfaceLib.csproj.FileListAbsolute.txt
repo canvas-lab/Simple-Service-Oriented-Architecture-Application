@@ -1,0 +1,11 @@
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\InterfaceLib.dll
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\InterfaceLib.pdb
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\obj\Debug\InterfaceLib.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\obj\Debug\InterfaceLib.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\obj\Debug\InterfaceLib.dll
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\obj\Debug\InterfaceLib.pdb
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\obj\Debug\InterfaceLib.csproj.CopyComplete
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\RestSharp.dll
+C:\Users\Vi\source\repos\DCAssignment1\InterfaceLib\bin\Debug\RestSharp.xml
